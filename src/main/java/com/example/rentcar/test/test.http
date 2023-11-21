@@ -1,0 +1,17 @@
+POST http://localhost:8080/api/v1/car
+Content-Type: application/json
+
+{
+  "modelName": "Gentra",
+  "number": "01",
+  "owner": "/1"
+}
+#########
+
+GET http://localhost:8080/api/v1/car
+
+#########
+
+
+
+
